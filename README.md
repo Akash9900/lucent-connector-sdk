@@ -21,7 +21,7 @@ Provider APIs          Connectors              Pipeline              Store
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lucent-connector-sdk
+git clone https://github.com/Akash9900/lucent-connector-sdk
 cd lucent-connector-sdk
 npm install
 npm test          # run test suite (all tests pass, no Redis needed)
